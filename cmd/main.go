@@ -2,11 +2,12 @@ package main
 
 import (
 	"fmt"
-	"goplugin-learn/pkg/shared"
 	"io/ioutil"
 	"log"
 	"os"
 	"os/exec"
+
+	"github.com/wukaiying/goplugin-learn/pkg/shared"
 
 	"github.com/hashicorp/go-plugin"
 )

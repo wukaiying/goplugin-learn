@@ -1,7 +1,7 @@
 package shared
 
 import (
-	"goplugin-learn/pkg/plugins/proto"
+	"github.com/wukaiying/goplugin-learn/pkg/plugins/proto"
 
 	"golang.org/x/net/context"
 )

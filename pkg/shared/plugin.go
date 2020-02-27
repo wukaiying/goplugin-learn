@@ -2,7 +2,8 @@ package shared
 
 import (
 	"context"
-	"goplugin-learn/pkg/plugins/proto"
+
+	"github.com/wukaiying/goplugin-learn/pkg/plugins/proto"
 
 	"github.com/hashicorp/go-plugin"
 	"google.golang.org/grpc"
